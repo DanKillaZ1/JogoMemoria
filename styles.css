@@ -1,0 +1,12 @@
+.board{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+}
+img {
+    width: 120px; /* Defina o valor desejado para a largura das imagens */
+    height: 120px; /* Defina o valor desejado para a altura das imagens */
+  }
+  
